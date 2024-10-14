@@ -11,5 +11,5 @@ Dependencies:
     Selenium (selenium-java): Includes Selenium with specific exclusions (e.g., Guava, Netty).
     WebDriverManager: Used for managing WebDriver binaries (versions 5.3.2 and 5.7.0).
     Re-added Libraries: Guava, Netty, Jackson, and others added back with safe versions.
-    TestNG: Used for testing purposes (version 7.10.2).
+    
 
