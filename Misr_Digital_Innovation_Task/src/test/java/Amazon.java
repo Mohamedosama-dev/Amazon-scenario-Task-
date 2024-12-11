@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.List;
 
-public class MDI_Bank_Amazon {
+public class Amazon {
     public static void main(String[] args) {
         // Setup WebDriver (Firefox driver)
         WebDriverManager.firefoxdriver().setup();
